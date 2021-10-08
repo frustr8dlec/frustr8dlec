@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frustr8dlec
-- 👀 I’m interested in programming in all languages, particularly in reltion to education.
+- 👀 I’m interested in programming in all languages, particularly in relation to education.
 - 🌱 I’m currently learning the raspberry pi pico and mqtt
 - 💞️ I’m looking to collaborate on a socially linked educational platform
 - 📫 How to reach me DM on twitter @frustr8dlec
